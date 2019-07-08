@@ -1,1 +1,3 @@
-# szablon_do_kalkulacji_imprez_turystycznych
+### szablon do kalkulacji imprez turystycznych
+
+*_Excel + Visual Basis*_
